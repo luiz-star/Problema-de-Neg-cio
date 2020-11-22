@@ -1,4 +1,4 @@
-# Solução Lista de Exercícios - Capítulo 10
+# - PROBLEMA DE NEGÓCIO: TESTE DE HIPÓTESE PARA VERIFICAR SE OS VOOS DA DELTA AIRLINES (DL) , ATRSAM MAIS QUEOS VOOS DA INITED AIRLINES (UA).
 
 # Obs: Caso tenha problemas com a acentuação, consulte este link:
 # https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding
@@ -6,7 +6,7 @@
 # Configurando o diretório de trabalho
 # Coloque entre aspas o diretório de trabalho que você está usando no seu computador
 # Não use diretórios com espaço no nome
-setwd("C:/FCD/BigDataRAzure/Cap11")
+setwd()
 getwd()
 
 
